@@ -7,4 +7,4 @@ var frase = "pelo amor de deus";
 //alert(idade + idade2);
 console.log(nome);
 console.log(idade);
-console.log(frase.replace("deus", "Theus").toUpperCase());
+console.log(frase.replace("deus", "Theus").toLowerCase());
