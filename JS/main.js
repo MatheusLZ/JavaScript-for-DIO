@@ -1,4 +1,6 @@
 
 var nome = "Matheus";
 var idade = 23;
-alert(nome + "tem " + idade + " anos.");
+var idade2 = 10;
+//alert(nome + "tem " + idade + " anos.");
+alert(idade + idade2);
