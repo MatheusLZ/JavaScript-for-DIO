@@ -1,6 +1,6 @@
 var lista = ["maça", "banana", "mamão"];
 
-lista.push("uva");
+lista.pop();
 console.log(lista);
 /*var nome = "Matheus";
 var idade = 23;
