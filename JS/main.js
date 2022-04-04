@@ -1,7 +1,8 @@
 var lista = ["maça", "banana", "mamão"];
 
 //lista.pop();
-console.log(lista.reverse());
+console.log(lista)
+console.log(lista.toString());
 /*var nome = "Matheus";
 var idade = 23;
 var idade2 = 10;
