@@ -1,10 +1,10 @@
-var idade = 18
+var idade = prompt("Qual é a sua idade?")
 
 if (idade >= 18){
-    alert("maior de idade")
+    alert("maior de idade, você pode passar")
 }
 else {
-    alert("menor de idade")
+    alert("menor de idade, VOCÊ...NÃO VAI...PASSAR!")
 }
 
 
