@@ -1,5 +1,6 @@
-var fruta = {nome: "maça", cor: "vermelha"};
-console.log(fruta)
+var frutas = [{nome: "maça", cor: "vermelha"}, {nome: "uva", cor: "roxa"}];
+console.log(frutas)
+alert(frutas[1].nome)
 
 //lista.pop();
 //console.log(lista)
