@@ -1,7 +1,7 @@
-var lista = ["maça", "banana", "mamão"]
-console.log(lista[1])
-alert(lista[2])
+var lista = ["maça", "banana", "mamão"];
 
+lista.push("uva");
+console.log(lista);
 /*var nome = "Matheus";
 var idade = 23;
 var idade2 = 10;
