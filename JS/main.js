@@ -1,5 +1,6 @@
 var lista = ["maça", "banana", "mamão"]
 console.log(lista[1])
+alert(lista[2])
 
 /*var nome = "Matheus";
 var idade = 23;
