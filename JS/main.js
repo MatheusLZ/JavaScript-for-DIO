@@ -6,6 +6,7 @@ function validaIdade (idade){
     else{
     validar = false
 }
+    return validar;
 }
 
 var idade = prompt("Qual sua idade? ");
